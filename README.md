@@ -1,4 +1,5 @@
-# Orthogonal Style Injection (OSI): Where Semantic Ends, Style Starts!
+# Orthogonal Style Injection: Mechanistic Persona Steering for Zero-Shot Cross-Lingual Subtitle Translation (AACL-2026 Main)
+# Where Semantic Ends, Style Starts! 
 
 
 [![Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
